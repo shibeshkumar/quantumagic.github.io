@@ -14,3 +14,4 @@ redirect_from:
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://quantumagic.github.io/files/cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+[Click here to download the pdf](https://quantumagic.github.io/files/cv.pdf)
