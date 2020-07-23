@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shibesh Kumar Jas Pacif"
+title                    : "Dr.Shibesh Kumar Jas Pacif"
 title_separator          : "-"
-name                     : &name "Shibesh Kumar Jas Pacif"
+name                     : &name "Dr.Shibesh Kumar Jas Pacif"
 description              : &description "Assistant Professor (Senior), Department of Mathematics, School of Advanced Sciences, Vellore Institute of Technology, Vellore"
 url                      : "https://quantumagic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shibesh Kumar Jas Pacif"
+  name             : "Dr.Shibesh Kumar Jas Pacif"
   avatar           : "profile.png"
   bio              : "Assistant Professor (Senior), Department of Mathematics, School of Advanced Sciences, Vellore Institute of Technology, Vellore"
   location         : "Location"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qeyPHMQAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Shibesh_Pacif"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
