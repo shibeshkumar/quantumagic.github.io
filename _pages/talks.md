@@ -14,14 +14,11 @@ INVITED TALKS:
 6.	“Cosmological Models and Dark Energy”: Talk given as an invited speaker at the National Conference on Recent Trends in Mathematics with Applications, Department of Mathematics, Shri Ramswaroop Memorial University, Lucknow, 21 - 22 Feb 2019. 
 
 
-INVITED TALKS:
-1.	“The Universe & Mathematical modelling”: Webinar talk given as a resource person at JSS academy of Technical Education, Noida, 11 June 2020.  
-2.	“The Universe and our Current Understanding”: Talk given as an invited speaker at 2nd National Conference on Recent Trends in Mathematics with Applications, Department of Mathematics, Shri Ramswaroop Memorial University, Lucknow, 30-31 Jan 2020.
-3.	“The Universe & Mathematical Cosmology”: Talk given as a chief guest in a program at Vivekananda College, Delhi University, Delhi, 29 Jan 2020.
-4.	“Theories of Gravitation and Cosmological Modelling”: Webinar talk given as a resource person at Stellar Universe, Delhi, 29 Sept 2019.
-5.	“Scalar fields models of Dark Energy”: Talk given as a resource person at Stellar Universe, Delhi 24 Feb 2019.
-6.	“Cosmological Models and Dark Energy”: Talk given as an invited speaker at the National Conference on Recent Trends in Mathematics with Applications, Department of Mathematics, Shri Ramswaroop Memorial University, Lucknow, 21 - 22 Feb 2019. 
-
+TALKS GIVEN DURING VISITS/ IN MEETINGS:
+1.      “Cosmological Modelling with Dark Energy: Parametrization and Reconstruction”: A talk given during a visit at International Centre for Cosmology, Charusat, Gujarat, 21 Nov 2019.
+2.      “Science Popularization and Technical Proposal for a Planetarium”: A talk given during a visit at International Centre for Cosmology, Charusat, Gujarat, 22 Nov 2019.
+3.      “An Accelerating Cosmological Model from a Parametrization of Hubble Parameter”:Talk given at 10th Mathematical Physics Meeting: School and Conference on Modern Mathematical Physics in University of Belgrade, Belgrade, Serbia, 09-14 Sept 2019.
+4.      “A Singularity Free Cosmological Model in General Relativity” talk given in the Saha Theory workshop: Cosmology at the Interface, Theory Division, Saha Institute of Nuclear Physics, Kolkata, 28-30 Jan 2015.
 
 PAPER PRESENTATIONS
 IN CONFERENCES:
