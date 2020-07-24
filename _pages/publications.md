@@ -59,8 +59,9 @@ author_profile: true
 
 **PEER REVIEWED:**
 
+| **SN** | **Title of the Paper** | **Journal Name** | **Year, Vol** | **Page No.** | **ISSN No.** | **IF** | **Authorship &amp; Co-authors** |
 | 1 | Cosmological parametrizations and their scalar field descendants | Physics and Astronomy International Journal | 2017, **1 (6)** | 00038 | 2576-4543 | No IF | First, Corresponding author, 2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+
 
 
 
